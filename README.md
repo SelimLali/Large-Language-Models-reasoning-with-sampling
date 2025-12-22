@@ -5,8 +5,10 @@ It focuses on a small-scale, fully reproducible implementation of *test-time sam
 
 The core idea studied here is that a strong base language model can exhibit significantly better reasoning performance **without additional training** by changing *how we sample* at inference time. In particular, the paper proposes **training-free power sampling** (implemented via **blockwise Metropolis–Hastings**, a.k.a. *Power-MH*), which reweights generations toward higher-likelihood reasoning trajectories—often outperforming simple baselines like standard sampling or low-temperature decoding, and approaching/competing with training-based methods in some regimes.
 
-The research paper I studied for my final project assignment is : 
-**Reasoning with Sampling: Your Base Model is Smarter Than You Think**  
+The research paper I studied for my final project assignment is :
+
+**Reasoning with Sampling: Your Base Model is Smarter Than You Think** 
+ 
 Aayush Karan and Yilun Du (arXiv) — training-free *power sampling* (Power-MH) and comparisons to low-temperature sampling / RL baselines.
 
 - Paper: https://arxiv.org/abs/2510.14901  
