@@ -1,0 +1,30 @@
+{"example_id": "test/precalculus/807.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "\\left( 3, \\frac{\\pi}{2} \\right)", "pred": "\\left(3, \\frac{\\pi}{2}\\right)"}
+{"example_id": "test/intermediate_algebra/1994.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "p - q", "pred": "p - q"}
+{"example_id": "test/algebra/2584.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "\\frac{14}{3}", "pred": "\\frac{14}{3}"}
+{"example_id": "test/number_theory/572.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "9", "pred": "9"}
+{"example_id": "test/algebra/1349.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "\\text{Evelyn}", "pred": "Evelyn"}
+{"example_id": "test/prealgebra/1622.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "42", "pred": "42"}
+{"example_id": "test/number_theory/515.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "27", "pred": "27"}
+{"example_id": "test/precalculus/927.json", "seed": 3, "method": "power_mh", "correct": 0, "gold": "90^\\circ", "pred": "90"}
+{"example_id": "test/algebra/2036.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "3\\sqrt{13}", "pred": "3\\sqrt{13}"}
+{"example_id": "test/prealgebra/1139.json", "seed": 3, "method": "power_mh", "correct": 0, "gold": "4", "pred": "3"}
+{"example_id": "test/number_theory/1032.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "2220", "pred": "2220"}
+{"example_id": "test/intermediate_algebra/1197.json", "seed": 3, "method": "power_mh", "correct": 0, "gold": "\\frac{3}{56}", "pred": "```The final answer is \\(\\boxed{\\frac{25}{196}}\\).``````The final answer is \\(\\boxed{\\frac{25}{196}}\\).``````The final answer is \\(\\boxed{\\frac{25}{196}}\\).``````The final answer is \\(\\boxed{\\frac{25}{196"}
+{"example_id": "test/number_theory/737.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "284", "pred": "284"}
+{"example_id": "test/geometry/248.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "5", "pred": "5"}
+{"example_id": "test/precalculus/1303.json", "seed": 3, "method": "power_mh", "correct": 0, "gold": "\\sqrt{51}", "pred": "10"}
+{"example_id": "test/precalculus/990.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "6 - 5i", "pred": "6 - 5i"}
+{"example_id": "test/intermediate_algebra/134.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "-50", "pred": "-50"}
+{"example_id": "test/precalculus/1199.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "\\pi", "pred": "\\pi"}
+{"example_id": "test/geometry/434.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "28", "pred": "28"}
+{"example_id": "test/intermediate_algebra/1000.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "3", "pred": "3"}
+{"example_id": "test/algebra/1098.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "6+9i", "pred": "6+9i"}
+{"example_id": "test/intermediate_algebra/607.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "13535", "pred": "13535"}
+{"example_id": "test/algebra/1837.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "5", "pred": "5"}
+{"example_id": "test/algebra/2193.json", "seed": 3, "method": "power_mh", "correct": 0, "gold": "x=5", "pred": "5"}
+{"example_id": "test/algebra/2427.json", "seed": 3, "method": "power_mh", "correct": 0, "gold": "10", "pred": "49.2"}
+{"example_id": "test/intermediate_algebra/1388.json", "seed": 3, "method": "power_mh", "correct": 0, "gold": "1,-2", "pred": "-2, 1"}
+{"example_id": "test/counting_and_probability/525.json", "seed": 3, "method": "power_mh", "correct": 0, "gold": "144", "pred": "```The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{144}.`````````The final answer is \\boxed{"}
+{"example_id": "test/prealgebra/1840.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "78", "pred": "78"}
+{"example_id": "test/precalculus/779.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "-2 + 7i", "pred": "-2 + 7i"}
+{"example_id": "test/counting_and_probability/666.json", "seed": 3, "method": "power_mh", "correct": 1, "gold": "225", "pred": "225"}

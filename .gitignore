@@ -1,0 +1,43 @@
+# ============================================================
+# NOTE: For now, everything is versioned (no active ignore rules).
+# Below are suggestions you may want to uncomment later.
+# ============================================================
+
+# --- Python bytecode / cache ---
+# __pycache__/
+# *.pyc
+# *.pyo
+# *.pyd
+
+# --- Jupyter ---
+# .ipynb_checkpoints/
+
+# --- Virtual environments ---
+# .venv/
+# venv/
+# env/
+# .conda/
+
+# --- OS / editor ---
+# .DS_Store
+# Thumbs.db
+# .vscode/
+# .idea/
+
+# --- Logs ---
+# *.log
+
+# --- HuggingFace / model caches (HIGHLY recommended to ignore if they appear) ---
+# .cache/
+# **/.cache/
+# **/hf_cache/
+# **/huggingface/
+# **/transformers_cache/
+
+# --- Experiment artifacts (consider ignoring later) ---
+# results/
+# data/
+# *.csv
+# *.json
+# *.jsonl
+# *.png
